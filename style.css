@@ -25,8 +25,8 @@
     font-size: 16px;
 }
 
-.canvas{
-    border: 5px solid white;
+canvas{
+    border: 5px solid black;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 10px 10px 10px darkgrey;
 }
