@@ -30,3 +30,18 @@ canvas{
     border-radius: 20px;
     box-shadow: 10px 10px 10px darkgrey;
 }
+
+#live_div{
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    background: url("computer.png");
+    background-size: cover;
+    background-color: white;
+}
+
+video{
+    margin-top: 20px;
+}
